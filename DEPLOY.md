@@ -1,4 +1,4 @@
-# Deploy Highlighter Pen
+# Deploy Webpage Highlighter Pen
 
 This directory is a complete static website. Upload its contents and preserve every subdirectory. No application server or database is required.
 
